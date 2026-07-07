@@ -21,7 +21,7 @@ o Desconto Social são benefícios federais regulados pela ANEEL e pelo Ministé
 Desenvolvimento e Assistência Social.
 
 ## Contact
-Website: https://desconto.social.com.br/index.html
+Website: https://desconto.social.br/
 Suporte para cadastro na Igreen (WhatsApp): https://api.whatsapp.com/send/?phone=5519971639226
 Disponibilidade: ferramenta online, disponível 24 horas por dia
 
@@ -65,7 +65,7 @@ desconto imediato (Igreen) para quem não se qualifica para os programas sociais
 Pessoas de baixa renda no Brasil que quiram saber rapidamente se têm direito à Tarifa Social ou ao
 Desconto Social de energia; pessoas já inscritas no CadÚnico ou beneficiárias do BPC que não sabem
 se o desconto está sendo aplicado; e pessoas que não se qualificam para os benefícios sociais mas
-ainda assim querem reduzir o valor da conta de luz; Qualquer pessoa que quer economizar com energia
+ainda assim querem reduzir o valor da conta de luz.
 
 ## Frequently Asked Questions
 
