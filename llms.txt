@@ -1,0 +1,137 @@
+# Desconto na Energia
+
+## About
+Desconto na Energia é uma ferramenta gratuita e independente que ajuda pessoas no Brasil a
+descobrir, em poucos minutos, se têm direito à Tarifa Social de Energia Elétrica ou ao Desconto
+Social de Energia. A verificação é feita por um fluxo de perguntas simples sobre CadÚnico, BPC,
+renda familiar e o imóvel. Para quem não se qualifica para os benefícios do governo, o site indica
+uma alternativa comercial de desconto imediato na conta de luz através da Igreen, uma empresa de
+geração de energia por assinatura.
+
+## Services and Pricing
+- Verificação de elegibilidade para a Tarifa Social de Energia Elétrica: gratuita (R$ 0)
+- Verificação de elegibilidade para o Desconto Social de Energia: gratuita (R$ 0)
+- Guia completo de como se inscrever no Cadastro Único (CadÚnico): gratuito (R$ 0)
+- Indicação de desconto alternativo via Igreen: 8% a 14% de desconto direto na fatura de energia,
+  sem instalação, sem obras e sem fidelidade
+
+## Locations
+Ferramenta 100% online, sem endereço físico. Cobertura nacional (Brasil), já que a Tarifa Social e
+o Desconto Social são benefícios federais regulados pela ANEEL e pelo Ministério do
+Desenvolvimento e Assistência Social.
+
+## Contact
+Website: https://desconto.social.com.br/index.html
+Suporte para cadastro na Igreen (WhatsApp): https://api.whatsapp.com/send/?phone=5519971639226
+Disponibilidade: ferramenta online, disponível 24 horas por dia
+
+## Service Area
+Brasil (todos os estados e municípios — Tarifa Social e Desconto Social são regras federais)
+
+## Site Pages
+- Verificação de elegibilidade (início): /index.html
+- Tarifa Social de Energia — regras e passo a passo de cadastro: /tarifa-social.html
+- Desconto Social de Energia — regras e passo a passo de cadastro: /desconto-social.html
+- Como se inscrever no Cadastro Único (CadÚnico): /cadastro-unico.html
+- Desconto Igreen — o que é e como funciona: /igreen.html
+
+## Key Facts
+- Tarifa Social de Energia Elétrica: até 100% de desconto nos primeiros 80 kWh consumidos por mês.
+  Vale para quem está no CadÚnico com renda per capita de até meio salário mínimo, para quem tem
+  renda familiar total de até 3 salários mínimos com morador que dependa de uso contínuo de
+  aparelho elétrico (laudo médico), ou para quem recebe o BPC (Benefício de Prestação Continuada).
+- Desconto Social de Energia: tarifa reduzida e isenção da CDE (Conta de Desenvolvimento
+  Energético) até 120 kWh consumidos por mês. Vale para quem está no CadÚnico com renda per
+  capita entre meio e um salário mínimo. Em vigor desde 1º de janeiro de 2026 (Lei nº 15.235/2025).
+- Ambos os benefícios valem para apenas uma unidade consumidora por família, que precisa ser a
+  residência principal, com a conta de energia no nome de um morador cadastrado no CadÚnico ou
+  beneficiário do BPC.
+- O Cadastro Único (CadÚnico) é gratuito e feito no CRAS de qualquer cidade brasileira, e é o
+  requisito básico para acessar os dois benefícios.
+- Desconto Igreen: 8% a 14% de desconto direto na fatura de energia, via geração distribuída
+  (Lei nº 14.300/2022), sem necessidade de instalar painéis solares em casa, sem obras e sem
+  fidelidade — pode ser cancelado a qualquer momento.
+- Base legal: Lei nº 12.212/2010 (Tarifa Social), Lei nº 15.235/2025 / MP 1.300/2025 (Desconto
+  Social), Lei nº 14.300/2022 (Marco Legal da Geração Distribuída).
+
+## What Makes Us Different
+O site usa um fluxo de perguntas conversacional, no estilo fluxograma, em vez de um formulário
+longo e burocrático. Cada resposta que bloqueia o direito ao benefício gera uma explicação clara
+do motivo específico — renda alta, falta de cadastro no CadÚnico, segunda residência ou
+titularidade da conta — e, nesse caso, o site também apresenta uma alternativa comercial de
+desconto imediato (Igreen) para quem não se qualifica para os programas sociais.
+
+## Ideal Users
+Pessoas de baixa renda no Brasil que quiram saber rapidamente se têm direito à Tarifa Social ou ao
+Desconto Social de energia; pessoas já inscritas no CadÚnico ou beneficiárias do BPC que não sabem
+se o desconto está sendo aplicado; e pessoas que não se qualificam para os benefícios sociais mas
+ainda assim querem reduzir o valor da conta de luz; Qualquer pessoa que quer economizar com energia
+
+## Frequently Asked Questions
+
+Q: O Desconto na Energia é gratuito?
+A: Sim. A verificação de elegibilidade para a Tarifa Social e para o Desconto Social é 100%
+gratuita, não pede cartão de crédito e não exige cadastro.
+
+Q: Como funciona a verificação de elegibilidade?
+A: O usuário responde de 5 a 6 perguntas sobre CadÚnico, BPC, renda familiar e o imóvel. Ao final,
+o site mostra se a pessoa tem direito à Tarifa Social, ao Desconto Social, ou explica exatamente
+qual critério bloqueou o benefício.
+
+Q: Qual a diferença entre Tarifa Social e Desconto Social?
+A: A Tarifa Social atende famílias com renda per capita de até meio salário mínimo (ou até 3
+salários mínimos com laudo médico de uso contínuo de aparelho elétrico), com até 100% de desconto
+nos primeiros 80 kWh/mês. O Desconto Social atende renda per capita entre meio e um salário
+mínimo, com tarifa reduzida e isenção da CDE até 120 kWh/mês.
+
+Q: O desconto é automático ou preciso solicitar?
+A: Pode ser dos dois jeitos. O governo cruza periodicamente os dados do CadÚnico e do BPC com as
+distribuidoras de energia, e quem se enquadra costuma receber o desconto automaticamente. Se isso
+não acontecer, é possível solicitar diretamente na distribuidora, informando o NIS ou o número do
+BPC.
+
+Q: O que é o Cadastro Único (CadÚnico) e por que ele é necessário?
+A: É o cadastro gratuito do Governo Federal feito no CRAS que identifica famílias de baixa renda.
+Sem estar inscrito e com os dados atualizados, nenhum dos dois benefícios pode ser liberado, mesmo
+que a renda familiar seja baixa.
+
+Q: A conta de energia precisa estar no meu nome?
+A: Sim. A conta precisa estar no nome de alguém que mora no imóvel e que faz parte do CadÚnico ou
+recebe o BPC. Se estiver no nome de outra pessoa, é necessário pedir a troca de titularidade na
+distribuidora.
+
+Q: O benefício vale para mais de um imóvel da mesma família?
+A: Não. A Tarifa Social e o Desconto Social valem para apenas uma unidade consumidora por
+família, e ela precisa ser a residência principal.
+
+Q: E se eu não tiver direito a nenhum dos dois benefícios?
+A: O site explica o motivo do bloqueio (renda alta, falta de CadÚnico, segunda residência ou
+titularidade da conta) e mostra uma alternativa comercial: um desconto de 8% a 14% na conta de luz
+através da Igreen, sem obras e sem fidelidade.
+
+Q: O que é o desconto Igreen?
+A: É um desconto comercial de 8% a 14% aplicado direto na fatura de energia, através de geração
+distribuída (energia solar por assinatura). Não exige instalação de painéis solares em casa, não
+tem obras e não tem fidelidade — pode ser cancelado a qualquer momento.
+
+Q: O desconto Igreen atrapalha meu direito à Tarifa Social ou ao Desconto Social no futuro?
+A: Não. São benefícios de naturezas diferentes — um é governamental e o outro é uma oferta
+comercial. Se no futuro a pessoa passar a ter direito à Tarifa Social ou ao Desconto Social, pode
+solicitar o benefício normalmente, independentemente de já usar o desconto Igreen.
+
+Q: Vou receber duas contas de energia com a Igreen?
+A: Depende da distribuidora. Em algumas cidades já existe uma única fatura integrada; em outras,
+o cliente recebe duas faturas — uma da distribuidora, pelo uso da rede, e outra da Igreen, pela
+energia injetada com desconto. A soma das duas costuma ficar menor do que a conta cheia anterior.
+
+Q: Preciso me cadastrar no site para usar a ferramenta de verificação?
+A: Não. Basta responder as perguntas na tela. Nenhum dado pessoal é solicitado ou armazenado pela
+ferramenta de verificação de elegibilidade.
+
+## Markdown Mirrors
+Ainda não disponível nesta versão do site. Todas as páginas estão em HTML limpo e semântico
+(cabeçalhos, listas, tabelas e blocos de perguntas e respostas em <details>/<summary>), sem
+pop-ups, scripts de terceiros ou paywalls, o que já facilita a leitura por crawlers de IA.
+
+## Last Updated
+2026-07-06
